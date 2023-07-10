@@ -4,3 +4,7 @@ img {
   top: 100px;
   left: 10px;
 }
+
+body {
+  background-color: teal;
+}
